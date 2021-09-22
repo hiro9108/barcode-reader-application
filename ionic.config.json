@@ -1,0 +1,7 @@
+{
+  "name": "barcode-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

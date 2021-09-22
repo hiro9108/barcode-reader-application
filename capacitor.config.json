@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "barcode-app",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
